@@ -1,0 +1,38 @@
+<annotation>
+	<folder>front</folder>
+	<filename>front (10).jpg</filename>
+	<path>C:\Users\rfsoh\OneDrive\Desktop\IIUM ASSIGNMENT\assignment_part_a\data\front\front (10).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>class1_lightVehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymin>590</ymin>
+			<xmax>1182</xmax>
+			<ymax>1113</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>license_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>915</xmin>
+			<ymin>1039</ymin>
+			<xmax>1027</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+</annotation>
